@@ -1,1 +1,1 @@
-<?php echo "THIS IS FIRST COMMIT"; ?>
+<?php echo "Hello Friend"; ?>
